@@ -1659,3 +1659,14 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+.techstack {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 10% 0 10%
+	
+
+}
+.svg-icon {
+	fill: white;
+	color: white;
+}
